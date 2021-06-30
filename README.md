@@ -2,9 +2,6 @@
 <h3 align="center"> Computer Science student at University of Florida </h3>
 
 
-<div align = "center">
-
-[![ThuanPham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanpham7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

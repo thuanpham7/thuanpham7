@@ -119,8 +119,6 @@ I’m a software engineer who enjoys turning ideas into reliable applications, d
 
 </div>
 
-> Replace `thuanpham7` with your actual GitHub username.
-
 ---
 
 ## 🚀 Currently Leveling Up

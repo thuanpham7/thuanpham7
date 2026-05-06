@@ -5,7 +5,7 @@ Tip: rename this file to README.md inside a repo named exactly like your GitHub 
 
 <div align="center">
 
-# ⚔️ Uyen Do
+# Thuan Pham
 
 ### Software Engineer @ Morgan Stanley  
 ### B.S. Computer Science — University of Florida 🐊  

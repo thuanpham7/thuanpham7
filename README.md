@@ -24,7 +24,7 @@ Tip: rename this file to README.md inside a repo named exactly like your GitHub 
 ## 🧙‍♂️ About Me
 
 ```yaml
-name: Uyen Do
+name: Thuan Pham
 role: Software Engineer
 company: Morgan Stanley
 education:
